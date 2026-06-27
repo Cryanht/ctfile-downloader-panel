@@ -1,10 +1,7 @@
 "use server"
 
 // 获取环境变量
-const API_URL = process.env.NEXT_PUBLIC_API_URL
-
-// Panel system configuration 
-const PANEL_ACCESS_CODE = "010234"
+const API_URL = ctfile-downloader.ryanhtchungtk.workers.dev
 
 /**
  * 检查是否已登录
